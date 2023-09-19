@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-<!--
-**Jo-SungJun/Jo-SungJun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jo_Sung_Jun (Jo-SungJun)
 
 Here are some ideas to get you started:
 
